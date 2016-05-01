@@ -1,13 +1,13 @@
-BT-control
-==========
-This Program can Control Machines over network (to lock session, shutdown, and restart) and do some Internet Cafe
-Relative work .. for example
-#Add time
-#start session with no specific time.
-#close session 
-#lock session(when time is reached).
-#lock windows with "wallpaper".... 
-#system-Clock (show the counter clock) and time elapsed.
 
-#version code names
-all animals started with A and when reached Z ... start again... this could vote
+# BT-Control 
+##### General Information
+We made this project because, no app to control Internet Cafe is available right now in Linux(generally speaking).
+We firstly coded this on Gambas, but we are right now rewriting from scratch, in *Python* Language. 
+##### Technical details
+1. Python 2.8 
+2. a 10 pc (by default)
+3. Work with Wireless or ETH.
+4. easy steps to working in no time
+
+```javascript 
+this is in development stage we are working  to produce a working version . wait some time. Thanks for the interest 

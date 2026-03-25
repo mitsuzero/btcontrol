@@ -1,4 +1,4 @@
-# BT-Control
+# BT-Controller
 
 ![Status](https://img.shields.io/badge/status-en%20desarrollo-orange)
 ![Language](https://img.shields.io/badge/language-Python-blue)
